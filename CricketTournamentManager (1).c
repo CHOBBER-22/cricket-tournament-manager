@@ -1,17 +1,4 @@
-/*
-    CRICKET TOURNAMENT MANAGER
-    LTPS C Programming Project
 
-    Features:
-    - Add and display teams
-    - Record match scores
-    - Calculate winner and margin
-    - Maintain points table
-    - Search teams and sort standings
-    - Save/load data from files
-    - Demonstrates arrays, strings, pointers, structures,
-      functions, loops, conditions, recursion and file handling
-*/
 
 #include <stdio.h>
 #include <stdlib.h>
